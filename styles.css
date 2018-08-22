@@ -1,0 +1,82 @@
+#name{
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    font-size: 65px;
+}
+#btn1{
+    position: fixed;
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    color: blueviolet;
+    border: 25px solid blueviolet;
+    left: 75px;
+    top: 250px;
+    font-family: 'Righteous', cursive;
+    font-size: 35px;
+}
+#btn1:hover {
+    background-color: blueviolet;
+    color: white;
+}
+#btn1 {
+    border-radius: 24px;
+}
+#count1{
+    position: fixed;
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+    left: 190px;
+}
+
+#btn2{
+    position: fixed;
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    color: rgb(255, 136, 0);
+    border: 25px solid rgb(255, 136, 0);
+    right: 575px;
+    top: 250px;
+    font-family: 'Righteous', cursive;
+    font-size: 35px;
+}
+#btn2:hover{
+    background-color: rgb(255, 136, 0);
+    color: white;
+}
+#btn2 {
+    border-radius: 24px;
+}
+#count2{
+    position: fixed;
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+    left: 660px;
+}
+
+#btn3{
+    position: fixed;
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    color: deeppink;
+    border: 25px solid deeppink;
+    right: 75px;
+    top: 250px;
+    font-family: 'Righteous', cursive;
+    font-size: 35px;
+}
+#btn3:hover{
+background-color: deeppink;
+color: white;
+}
+#btn3 {
+    border-radius: 24px;
+}
+#count3{
+    position: fixed;
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+    left: 1160px;
+}
